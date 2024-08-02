@@ -31,4 +31,4 @@
 - Aprendi que as funções são subprogramas, que são responsáveis por unir um conjunto de instruções para executar uma tarefa específica dentro do código. 
 - Aprendi que tipos dados são métodos utilizados no TypeScript para auxiliar na transcrição de código, para que erros na codificação de um programa seja minimizada, e assim tornado o nosso trabalho mais produtivo por estar evitando alguns erros que somente com Java não são facilmente notados.
 - Aprendi que os tipos utilitários fazem parte da biblioteca do TypeScript e são importantes para manipulação de dados e objetos, e compreensão destes facilitara na escrita de um código seguro e me ajudara na leitura e no trabalho de projetos em equipe.
--Método de arrays e strings melhoram e simplificam a escrita de códigos, e tornando a escrita mais objetiva para solução de alguns problemas.
+- Método de arrays e strings melhoram e simplificam a escrita de códigos, e tornando a escrita mais objetiva para solução de alguns problemas.
